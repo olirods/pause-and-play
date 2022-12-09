@@ -78,6 +78,7 @@ https://user-images.githubusercontent.com/49884623/206725435-a0431b8d-7ef2-4d2c-
 
 https://user-images.githubusercontent.com/49884623/206725487-e4ca395c-16fe-4210-9f2b-48c53000cdd0.mov
 
+## Acknowledgments
 
-
+This project is part of the subject CSC306 (Writing Mobile Apps) from the Computer Science Bachelor's Degree Plan at Swansea University. Fully developed by Sergio Olivares Rodríguez.
 
