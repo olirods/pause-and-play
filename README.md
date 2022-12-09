@@ -1,6 +1,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/49884623/206701504-e6955a60-1112-49c2-988d-54cb4370abb2.png"></p>
 
-Pause and Play is a location based song guessing game designed for the Android platform. In the game, users will have to guess the title and artist of a song, collecting the song lyrics from locations based around the Bay Campus, while they are playing other cultural music mini-games in order to be able to get those lyric lines.
+__Pause and Play__ is a location based song guessing game designed for the Android platform. In the game, users will have to guess the title and artist of a song, collecting the song lyrics from locations based around the Bay Campus, while they are playing other cultural music mini-games in order to be able to get those lyric lines.
 
 There are two masters of the game: ’Play’ and ’Pause’. Users will have to choose one of them to be their guides along all the game. Depending on which master they choose, users will play one of these game modes:
 
