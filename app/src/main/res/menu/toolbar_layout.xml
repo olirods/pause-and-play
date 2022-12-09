@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/lyrics"
+        android:icon="@drawable/lyrics"
+        app:showAsAction="ifRoom"
+        android:title="Lyrics">
+    </item>
+    <item
+        android:id="@+id/give_up"
+        android:icon="@drawable/give_up"
+        app:showAsAction="ifRoom"
+        android:title="Give up">
+    </item>
+</menu>

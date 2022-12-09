@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pause And Play</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="start_button_text">JUGAR</string>
+    <string name="cancel_button_text">CANCELAR</string>
+    <string name="change_language_message">Todo el juego estará en inglés y jugarás con canciones conocidas en Reino Unido.</string>
+    <string name="change_language_title">El idioma y región del juego van a cambiar</string>
+    <string name="points">Puntos:</string>
+    <string name="who_do_you_wanna_play_with">¿Con quién quieres jugar?</string>
+    <string name="explanation_classic_mode">Jugarás con las canciones más populares en España de los últimos 50 años.</string>
+    <string name="explanation_current_mode">Jugarás con las canciones más vendidas en España durante las últimas semanas.</string>
+    <string name="solve">RESUELVE !</string>
+    <string name="title_of_the_song">Nombre de la canción</string>
+    <string name="artist_of_the_song">Nombre del artista</string>
+    <string name="input_requirements">Sólo A-Z (con tildes) y espacios.</string>
+    <string name="cancel_exit_solving">BUENO, SEGUIRÉ PROBANDO</string>
+    <string name="incorrect">Es incorrecta. Lo siento.</string>
+    <string name="master_says">" dice..."</string>
+    <string name="ok_exit_solving">¡SI! NO TENGO NI IDEA</string>
+    <string name="solve_activity_title">Resolviendo el juego...</string>
+    <string name="exit_solving">Realmente quieres volver al mapa? Se te contará como otro fallo más en la puntuación final.</string>
+</resources>
