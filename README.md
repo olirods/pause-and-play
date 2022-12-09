@@ -70,6 +70,14 @@ The App Theme selected is a Material Light one, characterized by a light steel b
 
 <p align="center"><img src="https://user-images.githubusercontent.com/49884623/206703244-89215063-6199-42c1-abb6-9d4664230916.png"></p>
 
-## Screenshots (video)
+## Screenshots (videos)
+
+https://user-images.githubusercontent.com/49884623/206725004-030bffdc-c919-4f86-956d-cee1dcc429a7.mov 
+
+https://user-images.githubusercontent.com/49884623/206725435-a0431b8d-7ef2-4d2c-a51f-1071ea58c93a.mov
+
+https://user-images.githubusercontent.com/49884623/206725487-e4ca395c-16fe-4210-9f2b-48c53000cdd0.mov
+
+
 
 
